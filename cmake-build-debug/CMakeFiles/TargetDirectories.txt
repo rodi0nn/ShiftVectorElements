@@ -1,0 +1,3 @@
+/Users/catalin/Projects/cpp/ShiftByN/cmake-build-debug/CMakeFiles/ShiftByN.dir
+/Users/catalin/Projects/cpp/ShiftByN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/catalin/Projects/cpp/ShiftByN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
